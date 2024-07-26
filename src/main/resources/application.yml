@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: studying-spring-boot
+  jpa:
+    open-in-view: true
